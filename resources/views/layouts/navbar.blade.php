@@ -20,7 +20,7 @@
             <a class="nav-link js-scroll-trigger" href="{{ route('login') }}">Login</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="{{ route('register') }}">Register</a>
+            <a class="nav-link js-scroll-trigger" href="{{ route('register') }}">Cadastro</a>
           </li>
         </ul>
       </div>
